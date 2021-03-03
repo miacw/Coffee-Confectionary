@@ -110,7 +110,7 @@ $result ="";
             <div class="navbar-header">
                 <a class="navbar-brand" href="#">
                     <span>
-                        <img src="media/Logo.png">
+                        <img src="Logo.png">
                     </span>
                     
                 </a>
@@ -149,9 +149,9 @@ $result ="";
           <div class="carousel-inner" role="listbox">
 
               <div id="carouselItem" class="carousel-item active">
-                <img class="d-block w-100" src="media/StoreAnimation.gif" alt="First slide">
+                <img class="d-block w-100" src="StoreAnimation.gif" alt="First slide">
                 <div class="carousel-caption d-none d-md-block" style="bottom: 270px;">
-                  <h5> C<img class="a" src="media/img/ConfectioneryImages/coffeebean.png" width="25" height="40">ffee C<img class="a" src="media/img/ConfectioneryImages/sweet.png" width="30" height="40">nfectionery</h5>
+                  <h5> C<img class="a" src="img/ConfectioneryImages/coffeebean.png" width="25" height="40">ffee C<img class="a" src="img/ConfectioneryImages/sweet.png" width="30" height="40">nfectionery</h5>
                    <p>It's coffee with character!</p>
                 </div>
                   
@@ -167,7 +167,7 @@ $result ="";
                             <p>Coffee Confectionery specialises in distributing coffee infused candy. Our franchise focuses on presenting you with cool and tasty coffee Confectionery.<br><br>Our website also includes a fun game for our customers to play to get an idea of how we prepare our confections. </p>
                         </div>
                         <div class="col-sm">
-                            <img src="media/img/ConfectioneryImages/packaging.png">
+                            <img src="img/ConfectioneryImages/packaging.png">
                         </div>
                       </div>
                   </div>
@@ -184,7 +184,7 @@ $result ="";
                             <p>Feel free to visit our store!<br><br>Old Royal Naval College, <br>Park Row, Greenwich, <br>London SE10 9LS<br><br>Open Hours:<br>Monday - Friday 9am–7pm<br><br>Weekends:<br>9am– 5pm</p>
                         </div>
                         <div class="col-sm">
-                            <img src="media/img/ConfectioneryImages/store.png">
+                            <img src="img/ConfectioneryImages/store.png">
                         </div>
                       </div>
                   </div>
