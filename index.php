@@ -215,53 +215,53 @@ $result ="";
 </div>
                   <div class = "shop-items">
     
-      <div class = "shop-item"><img class = "shop-item-image"src="media/img/ConfectioneryImages/regular.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Regular</h3><div class = "shop-item-detail"> 
+      <div class = "shop-item"><img class = "shop-item-image"src="img/ConfectioneryImages/regular.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Regular</h3><div class = "shop-item-detail"> 
 <!-- Coffee strength radio buttons-->
 <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
     <!-- Coffee strength radio buttons-->  
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/caramel.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Caramel</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/caramel.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Caramel</h3><div class = "shop-item-detail">
 <!-- Coffee strength radio buttons-->
  <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
   <!-- Coffee strength radio buttons-->    
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/cream.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Cream</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/cream.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Cream</h3><div class = "shop-item-detail">
   <!-- Coffee strength radio buttons-->        
  <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
    <!-- Coffee strength radio buttons-->   
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/chocolate.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Chocolate</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/chocolate.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Chocolate</h3><div class = "shop-item-detail">
  <!-- Coffee strength radio buttons-->         
 <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
@@ -278,53 +278,53 @@ $result ="";
 </div>
                   <div class = "shop-items">
 
-      <div class = "shop-item"> <img class = "shop-item-image" src="media/img/ConfectioneryImages/hazelnut.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Hazelnut</h3><div class = "shop-item-detail">
+      <div class = "shop-item"> <img class = "shop-item-image" src="img/ConfectioneryImages/hazelnut.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Hazelnut</h3><div class = "shop-item-detail">
   <!-- Coffee strength radio buttons-->        
  <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
   <!-- Coffee strength radio buttons-->    
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/mint.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Mint</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/mint.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Mint</h3><div class = "shop-item-detail">
    <!-- Coffee strength radio buttons-->       
   <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
       
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/peanut_butter.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Peanut butter</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/peanut_butter.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Peanut butter</h3><div class = "shop-item-detail">
  <!-- Coffee strength radio buttons-->         
 <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
           
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
       
-      <div class = "shop-item"><img class = "shop-item-image" src="media/img/ConfectioneryImages/vanilla.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Vanilla</h3><div class = "shop-item-detail">
+      <div class = "shop-item"><img class = "shop-item-image" src="img/ConfectioneryImages/vanilla.png" width="100" height="100"> <h3 class = "shop-item-title" style="color:#432918;">Vanilla</h3><div class = "shop-item-detail">
  <!-- Coffee strength radio buttons-->         
 <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
                         </div></div>
@@ -378,18 +378,18 @@ function showSlides(n) {
                 These specials are availble for a limeted time only.
                 <div class = "shop-items">
                     <div class = "shop-item">
-                        <img class = "shop-item-image" src="media/img/ConfectioneryImages/vdayflav.png"
+                        <img class = "shop-item-image" src="img/ConfectioneryImages/vdayflav.png"
                         width="100" height="100">
                         <h3 class = "shop-item-title" style="color:#432918;">Valentine's Day</h3>
                         <div class = "shop-item-detail">
                   
  <!-- Coffee strength radio buttons-->                           
 <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
                         
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
@@ -397,17 +397,17 @@ function showSlides(n) {
                     </div>
                     
                     <div class = "shop-item">
-                        <img class = "shop-item-image" src="media/img/ConfectioneryImages/xmasflav.png"
+                        <img class = "shop-item-image" src="img/ConfectioneryImages/xmasflav.png"
                         width="100" height="100">
                         <h3 class = "shop-item-title" style="color:#432918;">Christmas</h3>
                         <div class = "shop-item-detail">
   <!-- Coffee strength radio buttons-->                            
   <input type="radio" id="1" name="strength" value="1">
-  <label for="1"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
+  <label for="1"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 1 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="2" name="strength" value="2">
-  <label for="2"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
+  <label for="2"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 2 tbsp of coffee powder</label><br></label><br>
   <input type="radio" id="3" name="strength" value="3">
-  <label for="3"><img class="a" src="media/img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
+  <label for="3"><img class="a" src="img/ConfectioneryImages/bean.png" width="30" height="50"><label style="color:#432918;"> 3 tbsp of coffee powder</label></label><br>
                         
                             <h4 class = "shop-item-price" style="color:#432918;">£5.00</h4>
                             <button class="btn shop-item-btn" type="button">Add to cart</button>
