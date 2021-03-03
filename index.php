@@ -527,7 +527,7 @@ function showSlides(n) {
 
    <div class="column" style="background-color:black;">
     <h2>Follow Us</h2>
-    <p><img class="a" src="contacts.jpg" width="180" height="50"></p>
+    <p><img class="a" src="contacts.JPG" width="180" height="50"></p>
   </div>
 </div>
 <div class="row"><div class="topright"><?php include 'footer.html.php' ; ?></div>
