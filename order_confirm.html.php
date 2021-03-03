@@ -133,6 +133,6 @@ span.price {
   </div>
   
     </div>
-    <a href="index-html.php">Back to Homescreen</a>
+    <a href="index.php">Back to Homescreen</a>
 </body>
 </html>
